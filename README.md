@@ -6,10 +6,10 @@ A API terá os seguintes endpoints, os quais pode-se observar em http://localhos
 
 ![image](https://user-images.githubusercontent.com/46038257/168906399-85429234-d2be-4ecd-b83a-492127abe87c.png)
 
-![image](https://user-images.githubusercontent.com/46038257/168906654-c236c470-8d04-44d8-a009-3a88f094030f.png)
+![image](https://user-images.githubusercontent.com/46038257/168910103-5240316f-422b-42ad-abb7-d842c7c0fcb1.png)
 
 
-A API faz conexão com banco H2 assim como o MYSQL criando 3 tabelas, sendo uma de relacionamento:
+A API faz conexão com banco H2 para testes e com MYSQL para produção criando 3 tabelas, sendo uma de relacionamento:
 
 ![image](https://user-images.githubusercontent.com/46038257/168907892-bfa84bf2-56c2-444f-83c8-e27ca4caaddc.png)
 
