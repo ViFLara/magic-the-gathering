@@ -26,7 +26,7 @@ public class JogadorResource {
 
     @PostMapping(path = "/create-card-list")
     @ResponseStatus(HttpStatus.OK)
-    public void criarListasDeCartas(@RequestBody @Valid JogadorDTO request) {
+    public void createListsCartas(@RequestBody @Valid JogadorDTO request) {
         service.salvarListaParaJogadorExistente(request);
     }
 
